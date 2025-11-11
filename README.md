@@ -40,7 +40,10 @@ python orcid2bib.py 0000-0002-0408-5801 -o pubs.bib
 python bib2cv.py pubs.bib pubs.xlsx --highlight-name Cranley_J
 python citations.py A5023528834 -o citations.txt
 ```
+
 ---
 James Cranley
+
 November 2025
+
 [My CV](https://james-cranley.github.io/cv/cv.pdf)
