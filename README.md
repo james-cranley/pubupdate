@@ -5,7 +5,7 @@
 Useful for grabbing nicely-formatted publications metadata for CV updates or other tasks.
 
 Requires your
-- [ORCID](https://orcid.org)
+- [ORCID](https://orcid.org) iD
 - [OpenAlex](https://openalex.org) AuthorID
 
 Delivers
