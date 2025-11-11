@@ -5,6 +5,8 @@
 ## Install
 
 ```bash
+git clone git@github.com:james-cranley/pubupdate.git
+cd pubupdate
 conda env create -f environment.yaml
 conda activate pubupdate
 ```
