@@ -2,6 +2,8 @@
 
 ## `pubupdate` grab your publications info
 
+Uses this a mildly modified version of [this script](https://github.com/MrPike/orcid-to-bibtex) for the first step.
+
 ## Install
 
 ```bash
