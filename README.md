@@ -1,6 +1,6 @@
 # README
 
-## `pubupdate`, a simple way to grab your publications
+## `pubupdate` grab your publications info
 
 ## Install
 
