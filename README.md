@@ -11,6 +11,8 @@ Delivers
 
 Uses this a mildly modified version of [this script](https://github.com/MrPike/orcid-to-bibtex) for the first step.
 
+The LaTeX formatted entries are ready to drop into templates like [this one](https://www.overleaf.com/latex/examples/academic-cv-template/hvjpfjnyggbf) which I use for [my CV](https://james-cranley.github.io/cv/cv.pdf).
+
 ## Install
 
 ```bash
@@ -42,8 +44,4 @@ python citations.py A5023528834 -o citations.txt
 ```
 
 ---
-James Cranley
-
-November 2025
-
-[My CV](https://james-cranley.github.io/cv/cv.pdf)
+James Cranley, November 2025
