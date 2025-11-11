@@ -13,7 +13,7 @@ Delivers
 - `.xlsx` file with plain text and LaTeX-formatted entries for each publication.
 - `.txt` file with citations metrics (h-index, total citations).
 
-Uses this a mildly modified version of [this script](https://github.com/MrPike/orcid-to-bibtex) for the first step.
+Uses a mildly-modified version of [this script](https://github.com/MrPike/orcid-to-bibtex) for the first step.
 
 The LaTeX-formatted entries are ready to drop into templates like [this one](https://www.overleaf.com/latex/examples/academic-cv-template/hvjpfjnyggbf) which I use for [my CV](https://james-cranley.github.io/cv/cv.pdf).
 
