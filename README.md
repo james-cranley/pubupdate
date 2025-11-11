@@ -7,7 +7,7 @@ Useful for grabbing nicely-formatted publications metadata for CV updates or oth
 Delivers
 - `.bib` file containing all publications associated with an ORCID.
 - `.xlsx` file with plain text and LaTeX-formatted entries for each publication.
-- `/txt` file with citations metrics (h-index, total citations).
+- `.txt` file with citations metrics (h-index, total citations).
 
 Uses this a mildly modified version of [this script](https://github.com/MrPike/orcid-to-bibtex) for the first step.
 
