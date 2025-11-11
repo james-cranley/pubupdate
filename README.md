@@ -4,6 +4,10 @@
 
 Useful for grabbing nicely-formatted publications metadata for CV updates or other tasks.
 
+Requires your
+- [ORCID](https://orcid.org)
+- [OpenAlex](https://openalex.org) AuthorID
+
 Delivers
 - `.bib` file containing all publications associated with an ORCID.
 - `.xlsx` file with plain text and LaTeX-formatted entries for each publication.
